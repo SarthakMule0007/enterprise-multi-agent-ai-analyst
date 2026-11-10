@@ -1,0 +1,37 @@
+order_id,order_date,region,product_category,customer_segment,quantity,revenue
+1001,2025-01-04,North,Electronics,Consumer,1,899.00
+1002,2025-01-12,South,Home,Small Business,2,240.00
+1003,2025-01-19,East,Office,Consumer,5,175.00
+1004,2025-01-25,West,Outdoors,Enterprise,1,460.00
+1005,2025-02-03,North,Home,Consumer,3,330.00
+1006,2025-02-10,South,Electronics,Enterprise,2,1798.00
+1007,2025-02-16,East,Outdoors,Small Business,2,920.00
+1008,2025-02-24,West,Office,Consumer,4,140.00
+1009,2025-03-02,North,Electronics,Small Business,1,949.00
+1010,2025-03-09,South,Home,Consumer,2,220.00
+1011,2025-03-17,East,Office,Enterprise,8,280.00
+1012,2025-03-26,West,Outdoors,Consumer,1,510.00
+1013,2025-04-05,North,Home,Enterprise,4,440.00
+1014,2025-04-11,South,Electronics,Consumer,1,999.00
+1015,2025-04-18,East,Outdoors,Consumer,3,1380.00
+1016,2025-04-27,West,Office,Small Business,6,210.00
+1017,2025-05-03,North,Electronics,Consumer,2,1898.00
+1018,2025-05-12,South,Home,Enterprise,1,125.00
+1019,2025-05-20,East,Office,Small Business,10,350.00
+1020,2025-05-28,West,Outdoors,Enterprise,2,1040.00
+1021,2025-06-04,North,Home,Consumer,2,210.00
+1022,2025-06-13,South,Electronics,Small Business,2,2098.00
+1023,2025-06-21,East,Outdoors,Enterprise,1,530.00
+1024,2025-06-29,West,Office,Consumer,7,245.00
+1025,2025-07-06,North,Electronics,Enterprise,1,1099.00
+1026,2025-07-14,South,Home,Small Business,4,480.00
+1027,2025-07-22,East,Office,Consumer,6,210.00
+1028,2025-07-30,West,Outdoors,Small Business,2,1120.00
+1029,2025-08-03,North,Home,Small Business,3,345.00
+1030,2025-08-12,South,Electronics,Consumer,1,1049.00
+1031,2025-08-20,East,Outdoors,Enterprise,2,1180.00
+1032,2025-08-28,West,Office,Enterprise,9,315.00
+1033,2025-09-05,North,Electronics,Consumer,2,2198.00
+1034,2025-09-13,South,Home,Consumer,2,260.00
+1035,2025-09-21,East,Office,Small Business,12,420.00
+1036,2025-09-29,West,Outdoors,Consumer,1,620.00
